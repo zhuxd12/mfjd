@@ -1,0 +1,17 @@
+{
+    "name": "HSP",
+    "description": "HSP Project",
+    "keywords": ["hsp"],
+    "env": {
+        "UUID": {
+            "description": "UUID, can generated at: https://www.uuidgenerator.net",
+            "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
+        },
+        "SS_Encypt": {
+            "description": "ss encryption method",
+            "value": "chacha20-ietf-poly1305"
+        }
+    },
+    "repository": "",
+    "stack": "container"
+}
